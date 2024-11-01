@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a wrester and rock climber, in school with a passion for coding
 <!--
 **Markylu/markylu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
